@@ -9,4 +9,4 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 The input files and relevant files are hosting publicly on s3:
 The zip file of sorted Pokemon by primary types: [https://s3.amazonaws.com/cs6350.0u1/Assignment2/primaryPokemonSorted.zip](https://s3.amazonaws.com/cs6350.0u1/Assignment2/primaryPokemonSorted.zip)
-The original csv from the Kaggle dataset which included the names 
+The original csv from the Kaggle dataset which included the names of the pokemon and type of pokemon  used to perform the sorting: https://s3.amazonaws.com/cs6350.0u1/Assignment2/pokemon.csv
